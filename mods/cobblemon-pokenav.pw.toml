@@ -3,11 +3,11 @@ filename = "cobblenav-fabric-2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fdb4c720fe196f84976d0a87ab8c8753cbb00304"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bI8Nt3uA/versions/iV0GTZBr/cobblenav-fabric-2.2.2.jar"
+hash-format = "sha512"
+hash = "d4139c4cae0c029097a468a376f8fa107e696b1d5dbd36e915b07bdf657e73eca01ca2d75f9a14d04f47c5ef9b4f103272b6b506b2f6e85e374a385367e58d09"
 
 [update]
-[update.curseforge]
-file-id = 6606044
-project-id = 976014
+[update.modrinth]
+mod-id = "bI8Nt3uA"
+version = "iV0GTZBr"

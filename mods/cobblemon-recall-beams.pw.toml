@@ -1,0 +1,13 @@
+name = "Cobblemon Recall Beams [Cobblemon Sidemod]"
+filename = "RecallBeams-0.1.0-onecolor.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NJ9d8FIk/versions/5VtHrSGG/RecallBeams-0.1.0-onecolor.jar"
+hash-format = "sha512"
+hash = "62d6c21dfa2972c739ca79b9fcb721d99339bd25578e628b4d2377d186dacb4d41c24ebfd8a70f10578f75e994f000c2816629563f29e42e41dd41f252106d8f"
+
+[update]
+[update.modrinth]
+mod-id = "NJ9d8FIk"
+version = "5VtHrSGG"
