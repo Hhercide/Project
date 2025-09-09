@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/boids.pw.toml"
-hash = "cdb89914f31c2b3ec7ac870f8f7c3c16002d384fd3c450d2095e3403ffdbaae7"
+hash = "4049e57323fb89a8766a30d8a5cdd9b37d5b10813d9476bb57e3223950c252d5"
 metafile = true
 
 [[files]]
