@@ -1,7 +1,0 @@
-{
-    "keys": ["owntempo"],
-    "type": "flag",
-    "isAspect": true,
-    "default": false
-  }
-  

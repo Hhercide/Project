@@ -1,9 +1,0 @@
-{
-  "implemented": true,
-  "target": "cobblemon:miraidon",
-  "hitbox": {
-    "width": 1.5,
-    "height": 4.4,
-    "fixed": false
-  }
-}
