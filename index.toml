@@ -274,11 +274,6 @@ hash = "336e66d48a901b2d62a0e838734c9152d4a995d45be5beb69a962b3255fc7708"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonrider.pw.toml"
-hash = "87b241ee6f08ef25f478a576b64133dafeaac39453489e6fc7041ed465bf76bf"
-metafile = true
-
-[[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "e171002e7266be82b63522a7ae2bb594854e08468271bb27bddd5acb33b8bbc4"
 metafile = true
