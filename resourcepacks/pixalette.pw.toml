@@ -1,0 +1,13 @@
+name = "Pixalette"
+filename = "pixalette.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "526166652aacbd056f96cfcdc0dec9ea38aba973"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5975059
+project-id = 701853

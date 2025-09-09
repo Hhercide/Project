@@ -1,0 +1,13 @@
+name = "WantedItems"
+filename = "wanteditems-1.1.6+1.6.1+hotfix.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EfXlyDWr/versions/6TOdiSpO/wanteditems-1.1.6%2B1.6.1%2Bhotfix.1.jar"
+hash-format = "sha512"
+hash = "76da9ac5a6ceab438bbc5f0e903aa02fda6802e2e1c9aa3695668586cc569172be855f5ab7e0591ed842585d4fefddfb694b47c4b536de3d24d31474ed54cdc0"
+
+[update]
+[update.modrinth]
+mod-id = "EfXlyDWr"
+version = "6TOdiSpO"

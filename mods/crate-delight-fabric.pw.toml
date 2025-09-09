@@ -1,0 +1,13 @@
+name = "Crate Delight (Fabric)"
+filename = "cratedelight-24.11.22-1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8de63e5494ccd854fe942cafbc10eb67c7df1f9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5929160
+project-id = 957811

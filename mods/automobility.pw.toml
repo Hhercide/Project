@@ -1,0 +1,13 @@
+name = "Automobility"
+filename = "automobility-0.5.0.g+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/ucu8ghG5/automobility-0.5.0.g%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "7e5611e625502c74b277c862a5ec9b1a492db6fda0d37258a9c2ec1707f20771f23d525a89cf737c2519a73c9e27f35a8f56b1f69514b734b03b7bee64e72a23"
+
+[update]
+[update.modrinth]
+mod-id = "rqIsPf9F"
+version = "ucu8ghG5"

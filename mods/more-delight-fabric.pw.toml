@@ -1,0 +1,13 @@
+name = "More Delight (Fabric)"
+filename = "moredelight-25.03.27-1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ab15696ee6d37512b1407b6c29549b8bba71766"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6357948
+project-id = 964408

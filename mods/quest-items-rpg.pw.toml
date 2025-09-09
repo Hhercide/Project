@@ -1,0 +1,13 @@
+name = "Quest Items for FTB"
+filename = "quest_items-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a5a6fe29102bac02509c110d77f3a1f66a4d8bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6418041
+project-id = 1241931

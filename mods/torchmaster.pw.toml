@@ -1,0 +1,13 @@
+name = "Torchmaster"
+filename = "torchmaster-fabric-1.21.1-21.1.5-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c961c87b14d360c4278ad0d13c208e788d4cc5df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5827076
+project-id = 254268

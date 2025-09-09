@@ -1,0 +1,13 @@
+name = "Rustic Delight"
+filename = "rusticdelight-fabric-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fec5311665f4f8cd16803cad13694333f63b06da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200841
+project-id = 1106612

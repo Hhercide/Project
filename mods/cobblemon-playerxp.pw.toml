@@ -1,0 +1,13 @@
+name = "Cobblemon: PlayerXP"
+filename = "playerxp-fabric-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab1aa7d8c63ae0c8baf52ba03245a00ebdbc2ba0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6510654
+project-id = 1261726

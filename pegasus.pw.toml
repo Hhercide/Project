@@ -1,0 +1,13 @@
+name = "Pegasus Shaders "
+filename = "Pegasus (v0.3.2).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27a95b9d45f3f41785e668e22f04d466dbe88696"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6488373
+project-id = 1092607

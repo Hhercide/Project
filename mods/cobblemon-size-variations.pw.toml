@@ -1,0 +1,13 @@
+name = "Cobblemon Size Variations"
+filename = "CobblemonSizeVariationFabric-1.2.0+1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4397c3e607126be5dfc5f93fcd7514e4c1d590b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6660233
+project-id = 1190578

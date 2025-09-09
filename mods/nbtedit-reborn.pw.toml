@@ -1,0 +1,13 @@
+name = "In-game NBTEdit Reborn"
+filename = "nbtedit-fabric-5.2.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4238f7b1c5b78ecd42a9357a0848318b1b09a71e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6125442
+project-id = 678133

@@ -1,0 +1,13 @@
+name = "Cobblemon: Gotta Ride 'Em All"
+filename = "gotta-ride-em-all.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IL2pgAkR/versions/3VCeWVWj/gotta-ride-em-all.jar"
+hash-format = "sha512"
+hash = "da300835b918e432ac0ed202d82f9bd292298b64ba94ed2c60fe7b7c779ddeb056e6b10cb00a9973db35ed496d6449847e8d824197e1591d1d059bc19f30987c"
+
+[update]
+[update.modrinth]
+mod-id = "IL2pgAkR"
+version = "3VCeWVWj"

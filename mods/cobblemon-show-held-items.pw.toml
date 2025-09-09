@@ -1,0 +1,13 @@
+name = "Cobblemon - Show Held Items"
+filename = "show-held-items-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2753da48d48923be0528f65ad1a1880141356f10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6375435
+project-id = 1091675

@@ -1,0 +1,13 @@
+name = "Anny's Currency"
+filename = "annys-currency-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01007885e41c2d1a26e26589488c9ade410dd2a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6574015
+project-id = 1199624

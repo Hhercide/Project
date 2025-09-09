@@ -1,0 +1,13 @@
+name = "Illager Ships"
+filename = "ships-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff5a5aee5cf073cb66f565f314e5d71fe4418d2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6252680
+project-id = 1210975

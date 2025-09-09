@@ -1,0 +1,13 @@
+name = "Cobblemon Smartphone"
+filename = "cobblemon_smartphone-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6844840a967543425c3889e5d6896e4c713fb42b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6602948
+project-id = 1202617

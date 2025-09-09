@@ -1,0 +1,16 @@
+name = "Myths and Legends [Cobblemon Sidemod]"
+filename = "MythsAndLegends-fabric-1.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "814882ca83137999086d43d4a524e4bace81704b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6560668
+project-id = 1037337
+
+[option]
+optional = true

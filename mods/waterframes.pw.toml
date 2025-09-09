@@ -1,0 +1,13 @@
+name = "WATERFrAMES: Multimedia Displays"
+filename = "waterframes-FABRIC-mc1.21.1-v2.1.12c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4089b50f19c86ea81c946da57a64dba0b11bf58b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6438214
+project-id = 834607

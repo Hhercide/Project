@@ -1,0 +1,13 @@
+name = "Cobblemon Alpha Project"
+filename = "CobblemonAlphasFabric-1.1+1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2308e872c0e48cd4d395e7def88e76bf572f6744"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6243658
+project-id = 1203085

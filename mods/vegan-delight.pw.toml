@@ -1,0 +1,13 @@
+name = "Vegan Delight"
+filename = "vegan-delight-fabric-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5826d3a69b6e51959a176a4e3869203d1cfc14e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6102733
+project-id = 928290

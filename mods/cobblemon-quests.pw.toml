@@ -1,0 +1,13 @@
+name = "Cobblemon Quests"
+filename = "cobblemon_quests-[1.21.1]-fabric-1.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "090e11c4d9d378a26c150d528463cf4bc19a00df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6364989
+project-id = 922979
