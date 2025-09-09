@@ -26,6 +26,34 @@ hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
 metafile = true
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "d7b93e2c8e33f2eb044ab8adcc5796ed0a3de1dff132449341d03212724fd811"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "f2f782b818a9a3cdeae1c64dbeea8943e15fcdf3d1f3fbdaebcd2c3fdd572bca"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "68949abda7d7b8e603bfbf46a6e53255b55cee466818c3ed0b75e0833bbe0397"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ef17175a056ffcd78ff34880ab2a94daa986a6d7a919491b8bb242d3b4664099"
+
+[[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
 hash = "f242d82d69aa4b20bffccbc4190d41ec75dea48d7c8ed74f1ef146cc44286b2b"
 metafile = true
