@@ -959,6 +959,10 @@ hash = "e3dcd049273cadc45e1cee38639ce7a7a02e073e7333ab50afdef38e5b5696da"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "c0cc9c180e30adc6201cb8c39132f1f135b3bc6da0e642939836f4ff61b92ac5"
+
+[[files]]
 file = "resourcepacks/AllTheMons Release 2.4.zip"
 hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
 
