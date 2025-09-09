@@ -41,11 +41,6 @@ hash = "73b439f3f516148993280cd25f4bd4f634e2f245307801eb33b5f5d8abdcd1d8"
 metafile = true
 
 [[files]]
-file = "mods/annys-currency.pw.toml"
-hash = "2d0176b2ece0ccf4ecf2e8d1ac70e8d52795d96cd696f574227805144d208710"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "f40a760172675bc4e8c0b3149c23ef3811977df6c06d2bc89999fc8dceca88b9"
 metafile = true
@@ -78,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "48b6c104e7824f7b7c9ba27d3341c7e2ddb439846166250ae17715d1d3c9fe7f"
-metafile = true
-
-[[files]]
-file = "mods/biome-particle-weather.pw.toml"
-hash = "d72a305d131b6848be6d0c470f36994e75c0ad03734746dd365db2054469c829"
 metafile = true
 
 [[files]]
@@ -203,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-quests.pw.toml"
 hash = "a03496adb6adbe1b76c0e5607dd42f41adfef1f2bd7bad5352e9ba5455257ede"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-recall-beams-cobblemon-sidemod.pw.toml"
-hash = "0a9066c3adcd41a568415fd4692a91a14da06c86f0f328ac59048f285351e85a"
 metafile = true
 
 [[files]]
@@ -656,11 +641,6 @@ hash = "3cd8155341a4233955ff9892a3b7b5da6dc6d8d892863b2f544328f2731f7f03"
 metafile = true
 
 [[files]]
-file = "mods/myths-and-legends-cobblemon-addon.pw.toml"
-hash = "7c5ebcf80e29481016b63cb84a918db95274136dacd5339e5d560b4162eba053"
-metafile = true
-
-[[files]]
 file = "mods/nbtedit-reborn.pw.toml"
 hash = "189612bc8a89eb9ce3526a9c7e872ed4e20a8fab55dbd519072aacd97701ccf7"
 metafile = true
@@ -841,11 +821,6 @@ hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
 metafile = true
 
 [[files]]
-file = "mods/the-immersive-music-mod.pw.toml"
-hash = "454fcf367efee7c77019f2c3ef68187d80114b7cfa63964c3d4832579e18e3af"
-metafile = true
-
-[[files]]
 file = "mods/tidal-waves.pw.toml"
 hash = "c3eeb965a91dc6d3f00e645364faa34fd29f04f8483c78ad40fab98c578bd195"
 metafile = true
@@ -958,11 +933,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "e3dcd049273cadc45e1cee38639ce7a7a02e073e7333ab50afdef38e5b5696da"
-metafile = true
-
-[[files]]
-file = "pegasus.pw.toml"
-hash = "5001d5c300f7a7922153bbbe9997397dc797012bab95ed8b3341ffc2a566cd94"
 metafile = true
 
 [[files]]
