@@ -1,13 +1,13 @@
 name = "Cobblemon Interface: Modded"
-filename = "Cobblemon Interface Modded v1.9.1.zip"
-side = "both"
+filename = "Cobblemon Interface Modded v1.9.3.zip"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "25fc777b5c261ed5611a5e885afa0a6d4d6121d0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5DF3hBIs/versions/Hkn6zoIE/Cobblemon%20Interface%20Modded%20v1.9.3.zip"
+hash-format = "sha512"
+hash = "1add51da0faf4ec9652f6d84b8e9e56980187f0de8cdf6deac5a8947b21e1808f70cd605f7509990c6412f55a06653a0be9de834ec9f1071fae72bb1543ffc27"
 
 [update]
-[update.curseforge]
-file-id = 6499118
-project-id = 989454
+[update.modrinth]
+mod-id = "5DF3hBIs"
+version = "Hkn6zoIE"

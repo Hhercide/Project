@@ -86,6 +86,11 @@ hash = "d72a305d131b6848be6d0c470f36994e75c0ad03734746dd365db2054469c829"
 metafile = true
 
 [[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "5248492ccdd394f46b34153b4b75ce25586d6242da13dc6935403552e97605ab"
+metafile = true
+
+[[files]]
 file = "mods/birds-boids-addon.pw.toml"
 hash = "d08a88d0a83a41d36a1d64ea40cc6793039d5af4fc4ac7175a2a72a46e691c8c"
 metafile = true
@@ -187,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "73aa62cde17af1a654f03b7b503e5a9a6d8ee4dbbbe33a7f9c9268a8801a8404"
+hash = "5b5c789ec24dd41b310035120346cf6c69916c0dce8fdf9047e2c46c374f5d36"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "42ad6e9a6f3dbeeee6a23d2095f4e9d03afa4c1a54a6ed317def61d7e8b719f2"
+hash = "ea8270c0368926bffa2c872aae0200e8ae04b519904fe699a0376f001ecbff42"
 metafile = true
 
 [[files]]
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-recall-beams-cobblemon-sidemod.pw.toml"
 hash = "0a9066c3adcd41a568415fd4692a91a14da06c86f0f328ac59048f285351e85a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-recall-beams.pw.toml"
+hash = "6951321ac8658031c290f2a352eb731223f27efd31959a5d4564cabe9cc5a19c"
 metafile = true
 
 [[files]]
@@ -222,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
-hash = "9ca30b141ba78d90a58b16eb5668858fed88a9826e0329fd28f5c09cf307b0aa"
+hash = "ad8044b673f5a77a30bef44aec281c443eae537329248ff4605f1c22c0a99ac7"
 metafile = true
 
 [[files]]
@@ -357,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "25f49c45a10f246b84980951cff79f27507bda06443ea314f7764c46cc2ee0a6"
+hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
 metafile = true
 
 [[files]]
@@ -397,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "b2616257fd86f8cc443ddbf9e80fddb1e72b437669f808583624713294a44a00"
+hash = "24602918bfcb1c3289563e9371fbfe09c9d0307167b44ae3ceb81fc925a9cb26"
 metafile = true
 
 [[files]]
@@ -458,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "9b9571aaa092bd705431b92f8f95ed72e3a52fb61e36fcc66ab884241db0ee9f"
+metafile = true
+
+[[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "23c464e7f17e2fcb5cb93bd725e559d1e11a76343b603eff17e6f9827a89cd4a"
 metafile = true
 
 [[files]]
@@ -657,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3398854da02be5e5005d124996efd1bb8086344ec55b69866d2e7335cfc1db25"
+hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
 metafile = true
 
 [[files]]
@@ -677,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/only-hammers-and-excavators.pw.toml"
-hash = "2894c703625d3fd50aa475815aa6d8445d5d541de537450343829005731ddd28"
+hash = "b9a0323fd8316b0a359265be51499eb68b081e47aef4ac3106e86c5896d1a08a"
 metafile = true
 
 [[files]]
@@ -747,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "4db30e85dea754316ee753e277cc7a484e942604af1f86bf4f1b728e26f30d39"
+hash = "178304ccfffe2c0705439c6d6dbd77d5833f3c6538cc412bef5c2375390e91a3"
 metafile = true
 
 [[files]]
@@ -17624,7 +17639,7 @@ hash = "f21a7c7c7055650af42cccdbb800bacbc52f48727762daef0d8d73abbed3e440"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-hash = "c7540d589112ce9a4edae37afafe463afcb6873b7ed10535f2f40c44fe8e9175"
+hash = "7c11af70f84abd9a26dc849e191c7c334e74dc9162864c845fdb876ea10e3d6f"
 metafile = true
 
 [[files]]
@@ -17639,7 +17654,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
@@ -17648,7 +17663,7 @@ hash = "afe4de4ab580db3e90bd3899d7eedab5084f1d41df764c78beb47cd963906b95"
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
-hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
 
 [[files]]
@@ -17680,6 +17695,11 @@ hash = "04d63cfb9e2cdbb58d688e4573cdf2060ebd674318b2d0aaddfd8ca4eecedc9c"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
 hash = "35b7bd6f43feee12b44287f81fee098fc88537af891df22d7a07b95d1783dc4d"
+
+[[files]]
+file = "shaderpacks/pegasus.pw.toml"
+hash = "9c5e52aee2dd74c33f1b6484236861983d84f4267d5f3f0a956133ca366c9887"
+metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.1.zip"
