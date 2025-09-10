@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "d7b93e2c8e33f2eb044ab8adcc5796ed0a3de1dff132449341d03212724fd811"
+hash = "b959d11c3c4c4cfabbfa602143dee549593f0148907b50ac98dd6d4762f69810"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -1038,6 +1038,16 @@ hash = "04d63cfb9e2cdbb58d688e4573cdf2060ebd674318b2d0aaddfd8ca4eecedc9c"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
 hash = "35b7bd6f43feee12b44287f81fee098fc88537af891df22d7a07b95d1783dc4d"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
+metafile = true
 
 [[files]]
 file = "shaderpacks/pegasus.pw.toml"
