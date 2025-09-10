@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "5539288009df46e6f5354602660bfbe7e30c27d753ebf9a5486a75cf06c2a2f4"
+hash = "a58d17b41297ccd22fb1e6be18b60c2f556b6cfb8718ee24480066e91d6fad18"
 metafile = true
 
 [[files]]
@@ -968,12 +968,8 @@ file = "options.txt"
 hash = "c0cc9c180e30adc6201cb8c39132f1f135b3bc6da0e642939836f4ff61b92ac5"
 
 [[files]]
-file = "resourcepacks/AllTheMons Release 2.4.zip"
-hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
-
-[[files]]
-file = "resourcepacks/CCC_MAL 1.6.2.rar"
-hash = "618e166b8c75063d6bbc21252f38291ec7b2d92abc5f946500d7ee1371df5712"
+file = "resourcepacks/AllTheMons x Mega Showdown [2.9.0].zip"
+hash = "66e28bd1dbedbb00ca08d7f395eadfc33d989a4d31fd9f32dbaca19ea7506b5a"
 
 [[files]]
 file = "resourcepacks/CobblemonPokeLoot 1.8.zip"
@@ -984,16 +980,8 @@ file = "resourcepacks/Legends Untold Reborn v4.0.1.zip"
 hash = "68236dfd8d92059a22fe511b40c50dad83862e810740774f3e8e0996803cca58"
 
 [[files]]
-file = "resourcepacks/MysticMons_v3.2.1.zip"
-hash = "9e3749f431fbffa6a0fc95d878a166aec15b9aa9066ce88de2419ec9c8232102"
-
-[[files]]
 file = "resourcepacks/Suinezumi.zip"
 hash = "91c1ffcb54afe22feaa0fecd9b0de0828978bda649208295328b37c6a7f2dc8d"
-
-[[files]]
-file = "resourcepacks/XaerosCobblemon-3.0.2_stars+1.6.1.zip"
-hash = "f21a7c7c7055650af42cccdbb800bacbc52f48727762daef0d8d73abbed3e440"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
@@ -1016,10 +1004,6 @@ hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/hercide-server-emojiful-datapack.zip"
-hash = "afe4de4ab580db3e90bd3899d7eedab5084f1d41df764c78beb47cd963906b95"
-
-[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
@@ -1035,8 +1019,9 @@ hash = "25ce1cd309206d1f0e22e6952aa26080e6d53d6fed7a2bd9483846de78e927de"
 metafile = true
 
 [[files]]
-file = "resourcepacks/pokemans_v14.1_hitboxfix.zip"
-hash = "7b89d98758d8698d8b1baeb478ea384c15250ea87ec5f259abbb0932e833d19d"
+file = "resourcepacks/xaeroscobblemon.pw.toml"
+hash = "b19f0122d75d61a0545cbe6a6c2cd8efd2aa8e79eac3e69cc52765aeab205734"
+metafile = true
 
 [[files]]
 file = "shaderpacks/BSL_v10.0.zip.txt"
