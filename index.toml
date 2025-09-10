@@ -389,8 +389,8 @@ hash = "4f128957cb3715a76e340e35273e9b38e474a0a3798a325f1b0a998db9d5c0c1"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "907e116ed064c64913f85cb324be5c5ad862984996ac91567026e726d22a8cb2"
+file = "mods/essential.pw.toml"
+hash = "8fbdbf1d65f8a65d93632ce3c3f207f514ec0baad6472f0c3a883214784c04c9"
 metafile = true
 
 [[files]]
