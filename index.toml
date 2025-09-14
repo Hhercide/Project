@@ -999,6 +999,11 @@ file = "resourcepacks/Suinezumi.zip"
 hash = "91c1ffcb54afe22feaa0fecd9b0de0828978bda649208295328b37c6a7f2dc8d"
 
 [[files]]
+file = "resourcepacks/alphabet-soup.pw.toml"
+hash = "46739f3129f0df1d9c93a98594e2f12eabd0c07c70a55b0c4359a697bbfdb405"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
 hash = "7c11af70f84abd9a26dc849e191c7c334e74dc9162864c845fdb876ea10e3d6f"
 metafile = true
