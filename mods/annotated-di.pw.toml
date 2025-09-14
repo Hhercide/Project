@@ -1,0 +1,13 @@
+name = "Annotated DI"
+filename = "Annotated-DI-Fabric-4.0.8+1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RAXqYPH1/versions/WJf0Raig/Annotated-DI-Fabric-4.0.8%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "efe68a68b4b2adb59b289762439f8794b3b935b9f3b0da8ead5f67a79e7c9abb4883e38a4920ef031a228a1de718fe39ce7976d47f8f268888f6198af1999bb8"
+
+[update]
+[update.modrinth]
+mod-id = "RAXqYPH1"
+version = "WJf0Raig"

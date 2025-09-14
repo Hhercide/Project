@@ -69,6 +69,11 @@ hash = "73b439f3f516148993280cd25f4bd4f634e2f245307801eb33b5f5d8abdcd1d8"
 metafile = true
 
 [[files]]
+file = "mods/annotated-di.pw.toml"
+hash = "95675a4abdfa511c3ccc74d8e87f660ee4158e3ad447e250231331358a48ab18"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "f40a760172675bc4e8c0b3149c23ef3811977df6c06d2bc89999fc8dceca88b9"
 metafile = true
@@ -416,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
+metafile = true
+
+[[files]]
+file = "mods/fireplace-lib.pw.toml"
+hash = "a61b3a9f1c162dfceaf9a76040671025a332367f33100163bf63b67a17716fe9"
 metafile = true
 
 [[files]]
@@ -881,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "adf224a0c602c32fe970a49f26f8d4e87e1fb35e19648b643ff9ea04362f7ad1"
+metafile = true
+
+[[files]]
+file = "mods/unforgiving-void.pw.toml"
+hash = "45863a5bf33638c7368645add3c7ab9bee51cb6d555e4664ee189d755a08aa16"
 metafile = true
 
 [[files]]

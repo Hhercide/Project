@@ -1,0 +1,13 @@
+name = "Unforgiving Void"
+filename = "Unforgiving-Void-Fabric-3.1.7+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LYliJ0jT/versions/XsJvDzrm/Unforgiving-Void-Fabric-3.1.7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "81eaf5c35e5be38a30b45546e837b4108e030f813a78746a2b7fa5e6fa082af6625488fe154fc6d2d7da4b5554c3698eb1fca40a1a645abeff781b26c65b01c9"
+
+[update]
+[update.modrinth]
+mod-id = "LYliJ0jT"
+version = "XsJvDzrm"
