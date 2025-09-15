@@ -1,13 +1,13 @@
 name = "Cobblemon Pokenav"
-filename = "cobblenav-fabric-2.2.2.jar"
+filename = "cobblenav-fabric-2.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bI8Nt3uA/versions/iV0GTZBr/cobblenav-fabric-2.2.2.jar"
+url = "https://cdn.modrinth.com/data/bI8Nt3uA/versions/aB3cwrFJ/cobblenav-fabric-2.2.3.jar"
 hash-format = "sha512"
-hash = "d4139c4cae0c029097a468a376f8fa107e696b1d5dbd36e915b07bdf657e73eca01ca2d75f9a14d04f47c5ef9b4f103272b6b506b2f6e85e374a385367e58d09"
+hash = "58a5872cf2d2c529cb472cf473d055c2ec407c5ebbc9a5e3e355dc3b6b5dfad2791b8e550a6868a11fd7f8df122264fe3af7ad3635f83ad2f24b61d1a063dc14"
 
 [update]
 [update.modrinth]
 mod-id = "bI8Nt3uA"
-version = "iV0GTZBr"
+version = "aB3cwrFJ"
