@@ -1044,10 +1044,6 @@ hash = "b19f0122d75d61a0545cbe6a6c2cd8efd2aa8e79eac3e69cc52765aeab205734"
 metafile = true
 
 [[files]]
-file = "server.dat"
-hash = "ef494c5bf7c05f485c17bb519abaa49954d8d3709241a54aefc292a14840d803"
-
-[[files]]
 file = "shaderpacks/BSL_v10.0.zip.txt"
 hash = "283ee1ceb31916ee79a8b72bc3314e874eb54d121341533cfecfe614f14af044"
 
