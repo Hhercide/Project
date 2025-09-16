@@ -129,11 +129,6 @@ hash = "25add0437518c700e46a93e0971c85df73a65473c0c943ebee2bfea677d740e8"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "ae7f6aa94d992369f62452cf8cc38721b542488b81f2d280f2c04dad321c5b65"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "fc50ea07be81ba9ceacf1f3f3059b7e335dbc16ca258a146fbf93a23d97df9ff"
 metafile = true
@@ -296,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "29b54192c0e760db397dacd332422615ea177f939fc203af36a7e0c9d433b629"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "dd739f3873de08e81f7a519a2a89e58ce34b44f308eb25e92ca1cc50bea31cd8"
 metafile = true
 
 [[files]]
