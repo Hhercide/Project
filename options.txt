@@ -48,10 +48,10 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms","minecraft:udpresencefootsteps","cobblemon:uniqueshinyforms","cobbreeding:pasturefix","file/Suinezumi.zip","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/Cobblemon Interface v1.4.1.zip","file/E19 Cobblemon Minimap Icons.zip","moonlight:mods_dynamic_assets","file/Better-Leaves-9.2.zip","mega_showdown:gyaradosjumpingmega","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/AllTheMons x Mega Showdown [2.9.0].zip","file/XaerosCobblemon-3.0.2_stars+1.6.1.zip","mega_showdown:regionbiasmsd","file/LowOnFire 1.21.3.zip","file/Cobblemon Interface Modded v1.9.3.zip","file/pixalette.zip"]
-incompatibleResourcePacks:["ambientenvironment","appleskin","balm","bookshelf","carryon","cobblemon_spawn_notification","comforts","controlling","emojiful","enchdesc","essential","immersiveui","jade","jei","mcwdoors","modernfix","resourcify","searchables","spectrelib","starterkit","tectonic","toms_storage","torchmaster","veil","waterframes","watut","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip"]
+resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms","minecraft:udpresencefootsteps","cobblemon:uniqueshinyforms","cobbreeding:pasturefix","file/Suinezumi.zip","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/Cobblemon Interface v1.4.1.zip","file/E19 Cobblemon Minimap Icons.zip","moonlight:mods_dynamic_assets","file/Better-Leaves-9.2.zip","mega_showdown:gyaradosjumpingmega","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/AllTheMons x Mega Showdown [2.9.0].zip","file/XaerosCobblemon-3.0.2_stars+1.6.1.zip","mega_showdown:regionbiasmsd","file/LowOnFire 1.21.3.zip","file/Cobblemon Interface Modded v1.9.3.zip","file/pixalette.zip","file/AlphabetSoup-v2.2.zip"]
+incompatibleResourcePacks:["ambientenvironment","annotateddi","appleskin","balm","bookshelf","carryon","cobblemon_spawn_notification","comforts","controlling","emojiful","enchdesc","essential","fireplacelib","immersiveui","jade","jei","mcwdoors","modernfix","resourcify","searchables","spectrelib","starterkit","tectonic","toms_storage","torchmaster","veil","waterframes","watut","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/AlphabetSoup-v2.2.zip"]
 lastServer:
-lang:en_us
+lang:fr_fr
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -196,7 +196,7 @@ key_key.toms_storage.open_terminal:key.keyboard.keypad.7
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
-key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.travelersbackpack.cycle_tool:key.keyboard.keypad.7
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
@@ -212,24 +212,24 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.wands.wand_fill_circle:key.keyboard.k
-key_key.wands.wand_undo:key.keyboard.equal
-key_key.wands.wand_mode:key.keyboard.v
-key_key.wands.wand_palette_mode:key.keyboard.p
-key_key.wands.palette_menu:key.keyboard.j
-key_key.wands.m_inc:key.keyboard.right
-key_key.wands.wand_action:key.keyboard.h
-key_key.wands.wand_rotate:key.keyboard.r
-key_key.wands.n_inc:key.keyboard.up
+key_key.wands.inc_sel_block:key.keyboard.keypad.7
 key_key.wands.wand_orientation:key.keyboard.x
+key_key.wands.wand_rotate:key.keyboard.r
+key_key.wands.n_dec:key.keyboard.down
+key_key.wands.clear_wand:key.keyboard.c
+key_key.wands.palette_menu:key.keyboard.j
+key_key.wands.wand_palette_mode:key.keyboard.p
+key_key.wands.wand_mode:key.keyboard.v
+key_key.wands.wand_invert:key.keyboard.i
+key_key.wands.wand_action:key.keyboard.h
+key_key.wands.wand_fill_circle:key.keyboard.k
 key_key.wands.wand_menu:key.keyboard.y
-key_key.wands.inc_sel_block:key.keyboard.z
+key_key.wands.m_inc:key.keyboard.right
+key_key.wands.n_inc:key.keyboard.up
+key_key.wands.area_diagonal_spread:key.keyboard.comma
 key_key.wands.toggle_stair_slab:key.keyboard.period
 key_key.wands.m_dec:key.keyboard.left
-key_key.wands.area_diagonal_spread:key.keyboard.comma
-key_key.wands.clear_wand:key.keyboard.c
-key_key.wands.wand_invert:key.keyboard.i
-key_key.wands.n_dec:key.keyboard.down
+key_key.wands.wand_undo:key.keyboard.equal
 key_key.weaponmaster_ydm.opengui:key.keyboard.l
 key_gui.xaero_minimap_settings:key.keyboard.keypad.9
 key_gui.xaero_zoom_in:key.keyboard.unknown
@@ -269,7 +269,7 @@ key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.keypad.7
 key_keybind.name.COSMETIC_STUDIO:key.keyboard.keypad.7
 key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.keypad.7
 key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
-key_keybind.name.CHAT_PEEK:key.keyboard.z
+key_keybind.name.CHAT_PEEK:key.keyboard.keypad.7
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
 key_keybind.name.EMOTE_WHEEL:key.keyboard.keypad.6
 key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
