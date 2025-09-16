@@ -1,0 +1,13 @@
+name = "Suinezumi"
+filename = "Suinezumi.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXdE1bo3/versions/S9jyTR02/Suinezumi.zip"
+hash-format = "sha512"
+hash = "015e1d836ac52483844b71423334640ef556602e18a4196d663314dc10eff627dc5547ceb81fad0d8799a9679d1ee516377ca9ff2593fc200fd249bbe4f6e760"
+
+[update]
+[update.modrinth]
+mod-id = "kXdE1bo3"
+version = "S9jyTR02"

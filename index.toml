@@ -995,10 +995,6 @@ file = "resourcepacks/Legends Untold Reborn v4.0.1.zip"
 hash = "68236dfd8d92059a22fe511b40c50dad83862e810740774f3e8e0996803cca58"
 
 [[files]]
-file = "resourcepacks/Suinezumi.zip"
-hash = "91c1ffcb54afe22feaa0fecd9b0de0828978bda649208295328b37c6a7f2dc8d"
-
-[[files]]
 file = "resourcepacks/alphabet-soup.pw.toml"
 hash = "46739f3129f0df1d9c93a98594e2f12eabd0c07c70a55b0c4359a697bbfdb405"
 metafile = true
@@ -1036,6 +1032,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/pixalette.pw.toml"
 hash = "25ce1cd309206d1f0e22e6952aa26080e6d53d6fed7a2bd9483846de78e927de"
+metafile = true
+
+[[files]]
+file = "resourcepacks/suinezumi.pw.toml"
+hash = "7fe7cb842c89fd34fd1f0df8a6667b4520c084fa54b2b140201e17fe6a49d0be"
 metafile = true
 
 [[files]]
