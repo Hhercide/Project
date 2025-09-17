@@ -94,11 +94,6 @@ hash = "beb1f7ccd7c0ca2862492e51d6692c22b2d6cf9ee9f2a5c1274c1b9930e2b9c4"
 metafile = true
 
 [[files]]
-file = "mods/automobility.pw.toml"
-hash = "a14f16ecb5bcd4e8a69810d682b22797f50a9b070cf0a01306b0ffb6528928d3"
-metafile = true
-
-[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "b9f8f1f93a2e61aa9b8f16dd7b018e1cbdf911fca57d377d733f4d180a9210b0"
 metafile = true
