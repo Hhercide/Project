@@ -1040,20 +1040,8 @@ hash = "b19f0122d75d61a0545cbe6a6c2cd8efd2aa8e79eac3e69cc52765aeab205734"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v10.0.zip.txt"
-hash = "283ee1ceb31916ee79a8b72bc3314e874eb54d121341533cfecfe614f14af044"
-
-[[files]]
 file = "shaderpacks/Bliss-Shader-main (1).zip"
 hash = "35744dddaf503c11e343426f361e6a2ca3ef3889c50c58e2638f889370376cea"
-
-[[files]]
-file = "shaderpacks/Bloop-1.7.0-PublicBeta-1.zip.txt"
-hash = "04d63cfb9e2cdbb58d688e4573cdf2060ebd674318b2d0aaddfd8ca4eecedc9c"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
-hash = "35b7bd6f43feee12b44287f81fee098fc88537af891df22d7a07b95d1783dc4d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
@@ -1073,7 +1061,3 @@ metafile = true
 [[files]]
 file = "shaderpacks/photon_v1.1.zip"
 hash = "1228172bfb0ee49de3d2b6268390bac52c9a57dd0aa92c8903e57cf14583203a"
-
-[[files]]
-file = "shaderpacks/photon_v1.1.zip.txt"
-hash = "f74a364d0d79c198b1109980aa76d127e630c2c630cccb974e92bcc77986b008"
