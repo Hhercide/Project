@@ -89,6 +89,11 @@ hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "beb1f7ccd7c0ca2862492e51d6692c22b2d6cf9ee9f2a5c1274c1b9930e2b9c4"
 metafile = true
@@ -175,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
-hash = "d07ec8af07c2741a6d464141ef36dcc07398773faa5c54971e00e3e3c586820d"
+hash = "d5c2c194225075bcd748d812aa72bee771b9287851d0064cb25636415444cbf7"
 metafile = true
 
 [[files]]
@@ -465,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "a77767bfa6329e298fdea08d7dc86635fd4fff74127a3c1275378b96441a197d"
+hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
@@ -546,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/litematica-update-port.pw.toml"
 hash = "7466752049fb8112ea22749e5c54d43e33de69646b32ef6de1841bfebb1a98d0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
