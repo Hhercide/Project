@@ -309,11 +309,6 @@ hash = "c95f96c1422ed285de47a75dd9c163538fe89259d9525d15d2c07039f0c1f5b1"
 metafile = true
 
 [[files]]
-file = "mods/corgilib.pw.toml"
-hash = "0381a70aa3e0234278892a6c19948d40c2345b58407bd757f19768ac07488f2a"
-metafile = true
-
-[[files]]
 file = "mods/corn-delight-fabric.pw.toml"
 hash = "ed97a6be26618ca45de872a604c67ab571534119f555696ca96a834a96ef01cb"
 metafile = true
@@ -336,11 +331,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "07a7599da1940a0023c06bc8ba04033b971f6cd99af4ef8babb12616a50952d8"
-metafile = true
-
-[[files]]
-file = "mods/data-anchor.pw.toml"
-hash = "d9232b8eb42babcfc67b71013ab377570ef0ae350befd46bae90e7514f1a97f2"
 metafile = true
 
 [[files]]
@@ -381,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "2c1d05da2179691fc1c27b53eaf942c32ff1528739a9be5e3a34dd2a92105696"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "e0768967454232337e71648bfc49d13ee502d1076054efac6ff72ae47d8a51a6"
 metafile = true
 
 [[files]]
