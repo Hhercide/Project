@@ -809,6 +809,11 @@ hash = "8cb6772e366f46ca6968bfc2d91857ee6d8fbb74f0e51d96232477da5cd42f8e"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "15f247429100c92dec4e69697c94e39c0dd865251310e18bac7f3bb33c841186"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp-updated.pw.toml"
 hash = "065a6c92f489bce0ef6b27f0b05acde22920c5f5f15414171890ec5ea375fe16"
 metafile = true
