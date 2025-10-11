@@ -1050,6 +1050,11 @@ hash = "b19f0122d75d61a0545cbe6a6c2cd8efd2aa8e79eac3e69cc52765aeab205734"
 metafile = true
 
 [[files]]
+file = "resourcepacks/zamegasearly.pw.toml"
+hash = "a1bab676225c1bbf7acb36a24c0fc65d94dcf8da7205aa0c3fc582c3e388cf67"
+metafile = true
+
+[[files]]
 file = "shaderpacks/Bliss-Shader-main (1).zip"
 hash = "35744dddaf503c11e343426f361e6a2ca3ef3889c50c58e2638f889370376cea"
 

@@ -1,0 +1,13 @@
+name = "Z-A Megas Early"
+filename = "Z-A Mega's Early.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AoaCZCFo/versions/iqAzCzbQ/Z-A%20Mega%27s%20Early.zip"
+hash-format = "sha512"
+hash = "1367340fd815fd581ae6943344e190fbb5d06fbb49058608771baf369bddeec29ab3339fb204527f748fbe5b67b4a2f2d710084fc71eb9d16951a691a352f6f0"
+
+[update]
+[update.modrinth]
+mod-id = "AoaCZCFo"
+version = "iqAzCzbQ"
