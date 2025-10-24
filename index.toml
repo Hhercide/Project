@@ -894,6 +894,11 @@ hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
 metafile = true
 
 [[files]]
+file = "mods/true-ending.pw.toml"
+hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
+metafile = true
+
+[[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "adf224a0c602c32fe970a49f26f8d4e87e1fb35e19648b643ff9ea04362f7ad1"
 metafile = true
