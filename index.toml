@@ -1001,6 +1001,10 @@ file = "resourcepacks/CobblemonPokeLoot 1.8.zip"
 hash = "94b2b7cf43cc75a0cd3c5a17f86df4ead4055141da4e243732533984c9dddc90"
 
 [[files]]
+file = "resourcepacks/HitboxOptimization-2.4.7.zip"
+hash = "436e431c421b00c6a8d541395bca0a76f3f3eb949b48e6d7b09fb97a52ca764e"
+
+[[files]]
 file = "resourcepacks/Legends Untold Reborn v4.0.1.zip"
 hash = "68236dfd8d92059a22fe511b40c50dad83862e810740774f3e8e0996803cca58"
 
