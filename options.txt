@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms","minecraft:udpresencefootsteps","cobblemon:uniqueshinyforms","cobbreeding:pasturefix","file/Suinezumi.zip","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/Cobblemon Interface v1.4.1.zip","file/E19 Cobblemon Minimap Icons.zip","moonlight:mods_dynamic_assets","file/Better-Leaves-9.2.zip","mega_showdown:gyaradosjumpingmega","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/AllTheMons x Mega Showdown [2.9.0].zip","file/XaerosCobblemon-3.0.2_stars+1.6.1.zip","mega_showdown:regionbiasmsd","file/LowOnFire 1.21.3.zip","file/Cobblemon Interface Modded v1.9.3.zip","file/pixalette.zip","file/AlphabetSoup-v2.2.zip"]
-incompatibleResourcePacks:["ambientenvironment","annotateddi","appleskin","balm","bookshelf","carryon","cobblemon_spawn_notification","comforts","controlling","emojiful","enchdesc","essential","fireplacelib","immersiveui","jade","jei","mcwdoors","modernfix","resourcify","searchables","spectrelib","starterkit","tectonic","toms_storage","torchmaster","veil","waterframes","watut","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/AlphabetSoup-v2.2.zip"]
+resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms","minecraft:udpresencefootsteps","cobblemon:uniqueshinyforms","cobbreeding:pasturefix","file/Suinezumi.zip","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/Cobblemon Interface v1.4.1.zip","file/E19 Cobblemon Minimap Icons.zip","moonlight:mods_dynamic_assets","file/Better-Leaves-9.2.zip","mega_showdown:gyaradosjumpingmega","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/AllTheMons x Mega Showdown [2.9.0].zip","file/XaerosCobblemon-3.0.2_stars+1.6.1.zip","mega_showdown:regionbiasmsd","file/LowOnFire 1.21.3.zip","file/Cobblemon Interface Modded v1.9.3.zip","file/pixalette.zip","file/AlphabetSoup-v2.2.zip","file/Z-A Mega\u0027s Early.zip","file/HitboxOptimization-2.4.7.zip"]
+incompatibleResourcePacks:["ambientenvironment","annotateddi","appleskin","balm","bookshelf","carryon","cobblemon_spawn_notification","comforts","constructionwand","controlling","emojiful","enchdesc","essential","fireplacelib","immersiveui","jade","jei","mcwdoors","modernfix","resourcify","searchables","spectrelib","starterkit","tectonic","toms_storage","torchmaster","waterframes","watut","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/CobblemonPokeLoot 1.8.zip","file/Legends Untold Reborn v4.0.1.zip","file/AlphabetSoup-v2.2.zip"]
 lastServer:
 lang:fr_fr
 chatVisibility:0
@@ -201,7 +201,6 @@ key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.n
-key_key.veil.editor:key.keyboard.f6
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.comma
@@ -253,7 +252,7 @@ key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.keypad.7
 key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
 key_keybind.name.CHAT_PEEK:key.keyboard.keypad.7
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
-key_keybind.name.EMOTE_WHEEL:key.keyboard.keypad.6
+key_keybind.name.EMOTE_WHEEL:key.keyboard.y
 key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_2:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_3:key.keyboard.unknown
