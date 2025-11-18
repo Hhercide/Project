@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-alpha-project.pw.toml"
-hash = "1ca4d36a1879a9b7fd82f294a9a41b0122b4afb1d239e96d268bfe9f1bc7e63a"
+hash = "bd166fa8622667ece212e411f3e38ec30f8a997ddde2f7e26b5df0f7fe958eb2"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "cd82878839645de16db4bd76c9ab7e0913948db56cdfd02ffe760c96b0fb8e13"
+hash = "361ebdece4c7d5c76898829f749fa5a5b8839d5cff2d00ed76c26757ee25eef8"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "e171002e7266be82b63522a7ae2bb594854e08468271bb27bddd5acb33b8bbc4"
+hash = "140a39ef7223c44488d0168de3ac9166d07d4422b44936e2dae60856f0904d26"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "cdbd09e056cf5670a15401bfc643dcacf041687b33f80609974d81da173906db"
+hash = "b7efdf14e315ce387de72feb5337e84f96725d6d1c7e4f4cce5d444a75c2da3e"
 metafile = true
 
 [[files]]
@@ -651,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c2fe9a1900ceb3a6014ccb83344aa4ab5ddf65c8bf660044469c3c90c7ed9010"
+metafile = true
+
+[[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "2e5758eb19f3e67d38e4edcf5a2e89304b3218e010ee44d3b5864a18cda4fb01"
 metafile = true
 
 [[files]]
