@@ -1070,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "675b06aed00392469764c3a9dac4c53af809018c7d6005f73d1dd02c057d6451"
+hash = "19815b6a67d3b43ccd405429ded6a9c7e3177d998e9f9153e826cf6aba9163d3"
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-main (1).zip"
