@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "7d0c3e68465db061d57e3d2605eeececaa061d6b18dabd6968fcd7fa2ceb7bce"
+hash = "c1d1f034c41431dca1839896c75959823c198221150927fff874628a51b3ce31"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a984811f7f950a116c183ab215dea9435d1b098c340c25f9dcbee70e980604fc"
+hash = "33a609714e86f6a49d87a9705f1fc8b2c130d623cb28f140ee5947e4db1646c1"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "6eb775a3c417807eaeafd4170398dcc5723cbd7d710362edb236dbb18c7d21e5"
+hash = "066c02fbf150e1d1f38aad7ad6ba8cd28fd3ae0820346ca03f6efa85633b12ba"
 metafile = true
 
 [[files]]
