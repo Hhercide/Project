@@ -80,6 +80,11 @@ hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "7d0c3e68465db061d57e3d2605eeececaa061d6b18dabd6968fcd7fa2ceb7bce"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
