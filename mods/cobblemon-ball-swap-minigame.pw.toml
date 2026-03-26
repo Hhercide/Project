@@ -1,0 +1,13 @@
+name = "Cobblemon: Ball Swap Minigame"
+filename = "cobbleballswitch-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5VrCRTI/versions/z5nJZurM/cobbleballswitch-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "a20bb312293fae1d7019328b1127286a9c981b2ad98159f3850b247851af4928736a893ef90089a650e987ace194cb06f091c9b6e4fa43c65b68135e0d207fcd"
+
+[update]
+[update.modrinth]
+mod-id = "m5VrCRTI"
+version = "z5nJZurM"

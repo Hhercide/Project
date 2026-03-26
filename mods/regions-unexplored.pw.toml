@@ -1,0 +1,13 @@
+name = "Regions Unexplored"
+filename = "regions-unexplored-0.6+beta3-fabric-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/OBkAu3Wa/regions-unexplored-0.6%2Bbeta3-fabric-21.1.jar"
+hash-format = "sha512"
+hash = "be5b9fbe8e942b5bb19a0c8872e8fd756caeb6546e707225518fd651a6ebce1a9d7223369448f60cbd73f126b147d219ac3f6e33e7f02cc60d4056f55a8a0972"
+
+[update]
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "OBkAu3Wa"

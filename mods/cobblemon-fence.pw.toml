@@ -1,0 +1,13 @@
+name = "Cobblemon Fence"
+filename = "Cobblemon_Fence-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aCQFwusS/versions/Z3w6FoHa/Cobblemon_Fence-1.0.2.jar"
+hash-format = "sha512"
+hash = "f4bac8a7c49d7bed989c43b7ed7c797407b20e8ee6ac798b2b1bdf37275195697597d090fcb0481d82c14a2a94ba2a9cfcb1a540f3dc7f7d3795d72689f6e087"
+
+[update]
+[update.modrinth]
+mod-id = "aCQFwusS"
+version = "Z3w6FoHa"

@@ -1,0 +1,13 @@
+name = "Cobblemon Smartphone"
+filename = "cobblemon_smartphone-fabric-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/Kk379EDx/cobblemon_smartphone-fabric-1.0.6.jar"
+hash-format = "sha512"
+hash = "d2c1049eed351721d7f6fe248d2acd7075c416cc9d8afa179ca8bc08545bbc2ec2f8ab11e4571142dc4407fbc3a8814e4bbd1521d18bdb01f05467e3cdc5eaa3"
+
+[update]
+[update.modrinth]
+mod-id = "n2f1HbK8"
+version = "Kk379EDx"

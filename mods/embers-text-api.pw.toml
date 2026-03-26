@@ -1,0 +1,13 @@
+name = "Embers Text API"
+filename = "emberstextapi-fabric-1.21.1-2.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVSg4uGN/versions/kg8mMOpQ/emberstextapi-fabric-1.21.1-2.9.1.jar"
+hash-format = "sha512"
+hash = "b8c4632a6428626e5d9f6c8897821a0ae3ebcc9d2647f466423a85fb9c32c7211a93fc71930a428f2750fe8599eb5ce40dabc0243fa4ffe702209776def6eac6"
+
+[update]
+[update.modrinth]
+mod-id = "OVSg4uGN"
+version = "kg8mMOpQ"

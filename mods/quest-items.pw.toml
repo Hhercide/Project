@@ -1,0 +1,13 @@
+name = "Quest Items"
+filename = "quest_items-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WsyCKVoz/versions/UmtufmBK/quest_items-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "dde04b1c54fdc7db3da5a017d71f02da21e6e635f6c7f959cd9ceae5c06480d2a2fd0272bbd3fd6110f7204f64c5916ce5f50aa4ed5aad8954e85360c51bbbd8"
+
+[update]
+[update.modrinth]
+mod-id = "WsyCKVoz"
+version = "UmtufmBK"

@@ -1,0 +1,13 @@
+name = "RE:Constructed Wands"
+filename = "reconstructedwands-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zj6ZBpmY/versions/oqWEMNI8/reconstructedwands-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "7c88eaacb805f6d81cae042b456db06cf6efcc3e7257e68a54a02685db45e26cb9ea19e617c3b6c5f381876707718a098797a889fc68987b4ee824cd8f537e98"
+
+[update]
+[update.modrinth]
+mod-id = "zj6ZBpmY"
+version = "oqWEMNI8"

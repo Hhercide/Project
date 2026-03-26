@@ -1,0 +1,13 @@
+name = "Cobblemon Quick Teams"
+filename = "cobblemon_quick_teams-1.5.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cbuAv7GB/versions/gwcpFZqi/cobblemon_quick_teams-1.5.5.jar"
+hash-format = "sha512"
+hash = "2c6b6e7247679392516b9c8094673b706f0113a7aac3cc7049f075a7bcef4e91f6b7971e0c989f2ed503cb507deaa21f64622e184f2df54a6ca91f911ca67ef1"
+
+[update]
+[update.modrinth]
+mod-id = "cbuAv7GB"
+version = "gwcpFZqi"

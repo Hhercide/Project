@@ -1,0 +1,13 @@
+name = "Oh The Biomes We've Gone"
+filename = "Oh-The-Biomes-Weve-Gone-Fabric-2.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/2VrEUzij/Oh-The-Biomes-Weve-Gone-Fabric-2.5.5.jar"
+hash-format = "sha512"
+hash = "e4a72b59325645fcbbf53f2999d594a5717075e6e71436f29d593f8a0d9a896129e0f56a2894be03e33208d56d586fa7456eada4088a213318e0b47be9d71f94"
+
+[update]
+[update.modrinth]
+mod-id = "NTi7d3Xc"
+version = "2VrEUzij"

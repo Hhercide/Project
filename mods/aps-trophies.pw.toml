@@ -1,0 +1,13 @@
+name = "APS Trophies"
+filename = "aps_trophies-1.21.1-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZmP6jlh0/versions/B1xcWIqn/aps_trophies-1.21.1-fabric-1.2.0.jar"
+hash-format = "sha512"
+hash = "fa74fec4db13dc328f2a014e31c2ed3cc86f49e6e58ed72275eb58a026f26a34cfb9a867858877b056f23881ab8167e85fee380a6d3ac5d89833ec042d4fed32"
+
+[update]
+[update.modrinth]
+mod-id = "ZmP6jlh0"
+version = "B1xcWIqn"

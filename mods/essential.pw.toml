@@ -1,0 +1,13 @@
+name = "Essential Mod"
+filename = "Essential_1-3-10-8_fabric_1-21-1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NLqhB7ld/Essential_1-3-10-8_fabric_1-21-1.jar"
+hash-format = "sha512"
+hash = "3e44979b3fe06b3e1821d320a6f5737dc5b9e6dc5db3fc63149e1c965edb76b10b3f6cd89cfe1f0a3945dc17a4c13b8435100aad344ced54a04a60ed068470d6"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "NLqhB7ld"

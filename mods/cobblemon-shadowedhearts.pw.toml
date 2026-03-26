@@ -1,0 +1,13 @@
+name = "Cobblemon: Shadowed Hearts"
+filename = "ShadowedHearts-fabric-1.0.6-Hotfix-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A8Qdw4kv/versions/tFIJNLak/ShadowedHearts-fabric-1.0.6-Hotfix-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "4c5421adc3a6f2a078cd2afb594289af40e718490250d804b12c1a1608da835afe17a78f5b59f2dc1134dfd51287cdb153de960e647d2681a70eac87656b2f87"
+
+[update]
+[update.modrinth]
+mod-id = "A8Qdw4kv"
+version = "tFIJNLak"

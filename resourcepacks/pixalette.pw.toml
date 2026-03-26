@@ -1,13 +1,13 @@
 name = "Pixalette"
 filename = "pixalette.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "526166652aacbd056f96cfcdc0dec9ea38aba973"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZilxpfYY/versions/BP2ZbXga/pixalette.zip"
+hash-format = "sha512"
+hash = "be3cafbdc8844f17509c614d6b24f38ad74d6be1c48eba805c81f30328c44c46ee0cb8286498f7508d10af28c71cf746b90ef58de8b79a447fdb478452930647"
 
 [update]
-[update.curseforge]
-file-id = 5975059
-project-id = 701853
+[update.modrinth]
+mod-id = "ZilxpfYY"
+version = "BP2ZbXga"

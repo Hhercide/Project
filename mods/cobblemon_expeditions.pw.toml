@@ -1,0 +1,13 @@
+name = "Cobblemon Expeditions"
+filename = "cobblemon-expeditions-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HtRy1shF/versions/osS9LHrq/cobblemon-expeditions-1.1.2.jar"
+hash-format = "sha512"
+hash = "db6e5c6a50fa50da028b895eb603f0507ed136991c36f43fba8dcf65ad9f5d08180dec2461f4233f6a1e291c02badc2df363fbee3dd9ae24f66a37bb8aaf0cb7"
+
+[update]
+[update.modrinth]
+mod-id = "HtRy1shF"
+version = "osS9LHrq"

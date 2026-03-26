@@ -1,0 +1,13 @@
+name = "Mob AI Commands"
+filename = "mob-ai-commands-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Elt4Bplv/versions/tiDfOoWU/mob-ai-commands-1.1.0.jar"
+hash-format = "sha512"
+hash = "d88bc358ce6a09b3b776d9ebc25b0c9118c8a856b70e3c1b5f04fe89fbc9baf748d1c507d6afbf93ded303ed73010a007d0878cd9be81ac47c2bdb45364186d1"
+
+[update]
+[update.modrinth]
+mod-id = "Elt4Bplv"
+version = "tiDfOoWU"
