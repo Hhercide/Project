@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "cfb394b2e025e921761766edbbe983dd3de9876b3e6288c8203ae8a89a577c66"
+
+[[files]]
+file = "config/emi.css"
+hash = "c8b0273e794720526ea1bbc59e1744b5f14a50030e84489662d06923de0a1cb0"
+
+[[files]]
+file = "config/immersive-hotbar.json5"
+hash = "001ee288cc8c5429df99fe62dd1285da114110651d4af4a5e6d29c4c0ecc9ee9"
+
+[[files]]
+file = "config/immersiveui.yaml"
+hash = "12b5bfb348bc7a4041e477dbb3df6c7fb6627273901dd5ee45d7338784547117"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "d45429706d4854a51d48fd7f423e6d8cd8f3d3bf85e68bf1714145259bd32f2d"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "920b719cf6ac32e6d2fc7d0e63cdee0013a2d4fb67e2faddf386df4982c0e1b5"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "05e500e7d5dd2d94f6095925d992fee4c11ef0cd032777048c78d1efdf6d1687"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "4254f1fa7c2d7484e1630553c972724ec1074b2fad50bfb47f7acfa541eff034"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "4b4724fc3609d069750251965f987da982924fdb77476af995837b145fb7ec74"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
@@ -80,6 +128,11 @@ hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "c1d1f034c41431dca1839896c75959823c198221150927fff874628a51b3ce31"
 metafile = true
@@ -150,6 +203,11 @@ hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
 metafile = true
 
 [[files]]
+file = "mods/cobbleemistuff.pw.toml"
+hash = "1ccfb82c6a056e4d1860f915e2fff974824de924d9ede692832f7b12a41ae433"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
 metafile = true
@@ -167,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-ball-swap-minigame.pw.toml"
 hash = "089119c03db06900380bc9fe60b0bf8338e93144afc2ba74272505cee77f880f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-emi.pw.toml"
+hash = "9c07ac2eb6d24b34beccdabec03d12c490d771c19cf847b130a0e4b0dd7ec877"
 metafile = true
 
 [[files]]
@@ -320,6 +383,11 @@ hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "d24b4c566bc19ae176a234d17ea0cc4753d64e0ac26c0eba175aceaff0454dde"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
@@ -327,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/embers-text-api.pw.toml"
 hash = "ce56c31b63b105aae0f97d8d768628eaf1679c62cdc4e1388174cfe010a6c68c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
@@ -362,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/essential.pw.toml"
 hash = "3835ac02262e356dec24d441b61a316e2a01848855f2a1f28f7b16ab63df34f6"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
 metafile = true
 
 [[files]]
@@ -430,6 +508,16 @@ hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
 metafile = true
 
 [[files]]
+file = "mods/immersive-hotbar.pw.toml"
+hash = "8b474a55d3296cb65c8cd979ff026d112fc826775c4fe8154f5c3cb4ba3134f7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "8e54aa67b2e446ba49f4c0a877a87b9e22a72f61e30e5d9b650f97b5c0f335a4"
+metafile = true
+
+[[files]]
 file = "mods/immersivemusicmod.pw.toml"
 hash = "4d7f0e40536e5dfc654f5cf3ce99b910634b553ca69a450a45bd57b76875f7a9"
 metafile = true
@@ -472,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
 metafile = true
 
 [[files]]
@@ -612,6 +705,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "78bda3d4ee9cefc83e2669a31266b4d2546cda16d905efeae7c449da437c552b"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "962102799180bcf15b1839d59d30a3a338cce662cdd5b5c2efff370b79374377"
 metafile = true
 
 [[files]]
@@ -795,6 +893,11 @@ hash = "5a0280ac06f0ee35cfd7e5234e9d265842dbf91746e2b344e9ec66f1d1e4911a"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "79a914c22a29620290a146689b8f37fa3c707c590a1edcca9665eff659b1562e"
 metafile = true
@@ -869,6 +972,11 @@ hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemon-interface.pw.toml"
+hash = "252ea5b173528625a9e30c39598d80c1a18021f6695c822fece342c88db86ea2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
 metafile = true
@@ -891,3 +999,8 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "19815b6a67d3b43ccd405429ded6a9c7e3177d998e9f9153e826cf6aba9163d3"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
