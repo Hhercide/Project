@@ -49,14 +49,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "4b4724fc3609d069750251965f987da982924fdb77476af995837b145fb7ec74"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "f2f782b818a9a3cdeae1c64dbeea8943e15fcdf3d1f3fbdaebcd2c3fdd572bca"
-
-[[files]]
 file = "config/xaerominimap_entities.json"
 hash = "2c59343d38b4d23203c2218a1b0dc3fbe4d1ae560f84ea034b23bdfdf2e2243f"
 
@@ -65,12 +57,8 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "ef17175a056ffcd78ff34880ab2a94daa986a6d7a919491b8bb242d3b4664099"
+file = "essential/config.toml"
+hash = "2bf703c0dd5504a1410dcdbf1666fa81fa31e12f1c3083ac12c82e6324d0a805"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -961,6 +949,10 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "67f2ed1c03b5226405b275c57912897fb41858a7c839a1ff047ea6a6c340c9f1"
 
 [[files]]
 file = "resourcepacks/HitboxOptimization-2.4.7.zip"
