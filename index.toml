@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cd98ddb3d38d3402b89ab669d423dbc199d70c4d655eaea615add89c30b95241"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]
@@ -530,6 +530,11 @@ hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
 metafile = true
 
 [[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "ec897286bdccb5d9fbef02b1c9070a9bce343f592cfc22aea3c836f0446e1864"
+metafile = true
+
+[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "8675eb41c4bb4fb257451f86a79ae35aae0ce5d88a061e1adcaede311c22f4aa"
 metafile = true
@@ -577,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "80057cd54cac2810d5c35310e3de603601db61cd2d5946eebdee1aecfedfd794"
 metafile = true
 
 [[files]]
@@ -687,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "af39f270eacf066a8d09c427b3ae865c3534810b49d61757a45c80adf68837ef"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "e171a4219a5fce5dedd042ebe9b9a8357788f67bbd23569e072b07ac66cefaee"
 metafile = true
 
 [[files]]
@@ -837,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
 metafile = true
 
 [[files]]
