@@ -261,6 +261,11 @@ hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-quest-reloaded.pw.toml"
+hash = "7291a7099dfdf414983e0af6383e30ff67e04071c92b9a019ddfdc30f0ec4a92"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-quick-teams.pw.toml"
 hash = "0aaa40e21d2a14e48f307c770698087db0a93fa16cbe452aad478290e6cb3bb6"
 metafile = true
