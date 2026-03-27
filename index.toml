@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "cd98ddb3d38d3402b89ab669d423dbc199d70c4d655eaea615add89c30b95241"
 metafile = true
 
 [[files]]
@@ -387,6 +387,26 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "f462593c64586e9921e02101e06399975a1b636c5efee19821905a1ae9728bc7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "38eef25721687f96d5897900d6cf6a3d09663fdd926c27df5010808b5fb2ea92"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-fabric.pw.toml"
+hash = "a3aa8d1aa408fb46e32edbddbdc23f76e1f4841c8eb6d867247d17e8507d7263"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "c20b0c7c1f2fd04aeaff3e956244deb0bc242078dc2705a593154973907cdb93"
 metafile = true
 
 [[files]]

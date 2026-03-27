@@ -1,0 +1,13 @@
+name = "FTB Ranks (Fabric)"
+filename = "ftb-ranks-fabric-2101.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47b4946a3a8d8a1f0fb9b8bb98ee00acb5219063"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6431745
+project-id = 472659
