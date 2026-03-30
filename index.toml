@@ -306,6 +306,11 @@ hash = "624199e94f15286848267f247f0053716e259008ed0ebbdc1756f83e009ca758"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-ui-tweaks.pw.toml"
+hash = "4d08fa48ec55d9238c9144f82d812aae1b8bd1e66dc16a0374ec8df94d4b5eb3"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-villager-overhaul.pw.toml"
 hash = "7a544b1145c2be9e95e29e52bae313353bd5c36fdcc77200b5b3ef604021e22c"
 metafile = true
