@@ -656,6 +656,11 @@ hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "43fd5c59bb56adf13b212c2eec286dea37e14bf070b356637a842c674e860cfe"
+metafile = true
+
+[[files]]
 file = "mods/mob-ai-commands.pw.toml"
 hash = "5faea0c3efaa2031674e28925cfa1f8d33e87bd8f35cc6eaf07f1cc24eddb72b"
 metafile = true
