@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon_expeditions.pw.toml"
-hash = "c42d47eb725ad44b1421afcafc4d496ff05bb432f5b3834412dffbf29be55896"
+hash = "25ed8754a792511a74fb08cde5fe0c8424885069080c5aa3d7976153e00c270c"
 metafile = true
 
 [[files]]
