@@ -802,6 +802,11 @@ hash = "10209276412b11d9e342392337b234f81bde23556d04d0f80c41533576adb68d"
 metafile = true
 
 [[files]]
+file = "mods/rctapi.pw.toml"
+hash = "bbfc6a83fafa4e25f3033c09eb23bb342ee99193f8e5c5d848244ab3fcfa27e6"
+metafile = true
+
+[[files]]
 file = "mods/reconstructed-wands.pw.toml"
 hash = "af81d198251dacead449ca89cabaa8c34d10ff6646509158a5c14da2a49fbee6"
 metafile = true
