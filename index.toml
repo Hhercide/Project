@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/catch-indicator.pw.toml"
-hash = "72f9de8c95f2391dc7414f94cc9defc34aaa3d275fb296e2f3bf46b11fdfd917"
+hash = "2bd45879a78a31a7d891677dd8f412abb482d190ccc088ca40dc33a8813c1ca9"
 metafile = true
 
 [[files]]
@@ -216,6 +216,11 @@ hash = "089119c03db06900380bc9fe60b0bf8338e93144afc2ba74272505cee77f880f"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-battle-tower.pw.toml"
+hash = "bd398415b588f2f3404309325b506b461c1b9efccf082983e06f78c0b55ba26d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-emi.pw.toml"
 hash = "9c07ac2eb6d24b34beccdabec03d12c490d771c19cf847b130a0e4b0dd7ec877"
 metafile = true
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "25fec29bb661c76e979cfe6733397ee1e36c154ab7ab1601ef08e1e99c92200c"
+hash = "43ce2b32885ee90bae00564c806029ee45a85f953284b8f359c4a75328a3a3db"
 metafile = true
 
 [[files]]
@@ -308,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-ui-tweaks.pw.toml"
 hash = "4d08fa48ec55d9238c9144f82d812aae1b8bd1e66dc16a0374ec8df94d4b5eb3"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-villager-overhaul.pw.toml"
-hash = "7a544b1145c2be9e95e29e52bae313353bd5c36fdcc77200b5b3ef604021e22c"
 metafile = true
 
 [[files]]
@@ -938,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
+metafile = true
+
+[[files]]
+file = "mods/wild-battle-api.pw.toml"
+hash = "33c55b3295464916bfea16af156b2a87f4441186446d90fbba1d373f64a74140"
 metafile = true
 
 [[files]]

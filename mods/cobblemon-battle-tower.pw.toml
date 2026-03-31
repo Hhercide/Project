@@ -1,0 +1,13 @@
+name = "Cobblemon Battle Tower"
+filename = "cobblemon_battle_tower-fabric-1.10.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v19DG9nW/versions/vyTnAW3y/cobblemon_battle_tower-fabric-1.10.19.jar"
+hash-format = "sha512"
+hash = "4947bbdfdbb866c51f67e74d383cb8784899e08f8a3c705bd761ebfebdbc44aa1f861a3220f021d8d27623b1801b5707f28ab34cefdc7e3a70c5445d03edbd9c"
+
+[update]
+[update.modrinth]
+mod-id = "v19DG9nW"
+version = "vyTnAW3y"
