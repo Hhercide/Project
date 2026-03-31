@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/adorablehamsterpets/main.toml"
+hash = "a8409b7815b27cf3553dd6b1c2a18a01e6faa19a0b148c753277d89abeed2ff1"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "cfb394b2e025e921761766edbbe983dd3de9876b3e6288c8203ae8a89a577c66"
 
