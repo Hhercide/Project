@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-repel.pw.toml"
-hash = "e24423d7ff807f880b36acb374e00e28908182bf15fa916b6a319b9ce804f81f"
+hash = "758f07baa24cdd1065e440aa7d1fb4f774288b082c09ef278c5db7f42d01cce5"
 metafile = true
 
 [[files]]
