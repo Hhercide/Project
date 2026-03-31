@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-quest-reloaded.pw.toml"
-hash = "7291a7099dfdf414983e0af6383e30ff67e04071c92b9a019ddfdc30f0ec4a92"
+hash = "c141750e71bf9109723b8e1ef19c900bd1f5f8d46ab3561b29aeb20ec095f561"
 metafile = true
 
 [[files]]
@@ -583,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/kits.pw.toml"
 hash = "4e7785b7d421dfe18e5367a948d299fd91b3b623260a2edd2bd0dcfc0bd7ae0d"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
