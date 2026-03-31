@@ -51,7 +51,7 @@ narratorHotkey:true
 resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","cobblemon:gyaradosjump","cobblemon:regionbiasforms","file/FreshAnimations_v1.10.4.zip","file/E19 Cobblemon Minimap Icons.zip","file/Suinezumi.zip","file/HitboxOptimization-2.4.7.zip","file/pixalette.zip","cobblemon:uniqueshinyforms","cobbreeding:coloredeggs","file/ATM x MSD [3.4.0].zip","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","moonlight:merged_pack","file/Cobblemon Interface v1.6.0.zip","black_icons"]
 incompatibleResourcePacks:["ambientenvironment","balm","biolith","carryon","controlling","distraction_free_recipes","emberstextapi","emojiful","entity_model_features","entity_texture_features","essential","immersiveui","jade","jadeaddons","jei","mcwdoors","modernfix","patchouli","reconstructedwands","regions_unexplored","resourcify","searchables","sophisticatedbackpacks","sophisticatedcore","spark","terrablender","toms_storage","torchmaster","txnilib","waterframes","watut","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
-lang:en_us
+lang:fr_fr
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -218,11 +218,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.unknown
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
