@@ -65,6 +65,10 @@ file = "config/xaero/minimap/profiles/default.cfg"
 hash = "71cac0743554ed8feaa28d34550b16d2a531eb67a34b4283a5511929855097d2"
 
 [[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "f7c68b51d2faa2e10366c7cf58cc74515885d97e1e44f3095275831bdbae2768"
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "abd12e8e1f6a3e7867e64c2c311100ec1dc58b23ecb356dec8de4fbcf2ed9c57"
 
@@ -1007,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "437e3097b4b29b996d9570c9cf57ae5ea0194668bed89db38c5f3de7ce55d5fa"
+hash = "2ee4cd3776a42b32ead97d66a61f86d226439af58d842358b10bb497b4f34b0b"
 
 [[files]]
 file = "resourcepacks/HitboxOptimization-2.4.7.zip"

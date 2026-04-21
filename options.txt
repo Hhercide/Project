@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","cobblemon:gyaradosjump","cobblemon:regionbiasforms","file/FreshAnimations_v1.10.4.zip","file/E19 Cobblemon Minimap Icons.zip","file/Suinezumi.zip","file/HitboxOptimization-2.4.7.zip","file/pixalette.zip","cobblemon:uniqueshinyforms","cobbreeding:coloredeggs","file/ATM x MSD [3.4.0].zip","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","moonlight:merged_pack","file/Cobblemon Interface v1.6.0.zip","black_icons"]
+resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","cobblemon:gyaradosjump","cobblemon:regionbiasforms","file/FreshAnimations_v1.10.4.zip","file/E19 Cobblemon Minimap Icons.zip","file/pixalette.zip","cobblemon:uniqueshinyforms","cobbreeding:coloredeggs","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","moonlight:merged_pack","file/Cobblemon Interface v1.6.0.zip","black_icons","file/ATM x MSD [v3.5.0].zip","file/Fat Pika and Friends.zip"]
 incompatibleResourcePacks:["ambientenvironment","balm","biolith","carryon","controlling","distraction_free_recipes","emberstextapi","emojiful","entity_model_features","entity_texture_features","essential","immersiveui","jade","jadeaddons","jei","mcwdoors","modernfix","patchouli","reconstructedwands","regions_unexplored","resourcify","searchables","sophisticatedbackpacks","sophisticatedcore","spark","terrablender","toms_storage","torchmaster","txnilib","waterframes","watut","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:fr_fr
@@ -142,13 +142,13 @@ key_axiom.keybind.nudge_forwards:key.keyboard.unknown
 key_axiom.keybind.nudge_backwards:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.backslash
 key_key.ftbteams.open_gui:key.keyboard.unknown
+key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.adorablehamsterpets.throw_hamster:key.keyboard.unknown
 key_key.adorablehamsterpets.dismount_hamster.disabled:key.keyboard.unknown
 key_key.adorablehamsterpets.force_mount_hamster.disabled:key.keyboard.unknown
 key_key.adorablehamsterpets.ride_hamster.disabled:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
-key_key.catchindicator.open_config:key.keyboard.unknown
 key_key.catchrate.toggle_hud:key.keyboard.unknown
 key_key.catchrate.show_comparison:key.keyboard.unknown
 key_key.catchrate.reset_position:key.keyboard.unknown
@@ -157,7 +157,6 @@ key_key.catchrate.move_down:key.keyboard.unknown
 key_key.catchrate.move_left:key.keyboard.unknown
 key_key.catchrate.move_right:key.keyboard.unknown
 key_key.catchrate.cycle_anchor:key.keyboard.unknown
-key_key.cobbledollars_villagers_overhaul_rca.cycle_trades:key.keyboard.unknown
 key_key.cobblemon.hideparty:key.keyboard.o
 key_key.cobblemon.summary:key.keyboard.m
 key_key.cobblemon.downshiftparty:key.keyboard.down
@@ -218,11 +217,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.unknown
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
@@ -271,6 +270,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown
 key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
 key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.i
