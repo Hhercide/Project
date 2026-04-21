@@ -1019,6 +1019,11 @@ hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemon-fat-pikachu-and-friends.pw.toml"
+hash = "97a96a267968d9f786d817ffaa65bba63a03dc39b50d16dad1dd1fc7a7430061"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "252ea5b173528625a9e30c39598d80c1a18021f6695c822fece342c88db86ea2"
 metafile = true

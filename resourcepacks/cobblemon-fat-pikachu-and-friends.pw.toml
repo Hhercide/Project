@@ -1,0 +1,13 @@
+name = "Cobblemon - Fat Pikachu and friends"
+filename = "Fat Pika and Friends.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5b72WF7n/versions/vjQOczVP/Fat%20Pika%20and%20Friends.zip"
+hash-format = "sha512"
+hash = "48fa4cbf6783a53c40797ffc66e3d9eaf2131afea0e30b6bb421e5c59b909cf287680dae4c97d4f8674d90266fef7e8e1747e6deca9609de6f31568defe97491"
+
+[update]
+[update.modrinth]
+mod-id = "5b72WF7n"
+version = "vjQOczVP"
