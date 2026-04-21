@@ -80,7 +80,8 @@
         {
           "hardInclude": "vanilla",
           "includeList": [
-            "biomeswevegone:man_o_war"
+            "biomeswevegone:man_o_war",
+	    "biomeswevegone:oddion"
           ],
           "includeListInSuperCategory": true,
           "excludeMode": "ONLY",
