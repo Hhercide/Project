@@ -1,13 +1,13 @@
 name = "Cobblemon Snap"
-filename = "cobblemon_snap-fabric-1.1.2.jar"
+filename = "cobblemon_snap-fabric-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pnZmbG9O/versions/uZ3UHypx/cobblemon_snap-fabric-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/pnZmbG9O/versions/j0lrRfgJ/cobblemon_snap-fabric-1.1.3.jar"
 hash-format = "sha512"
-hash = "440ca816ee8db27d9410bd3f9e4b5288aad881428c3ab387967ddd8d33a0d232f3a4f3a8ba19c16355c9e8ee0c0173704cf1f3d4c632ee80c92583e23dbb0319"
+hash = "5f9da3715feb59b0dbd34c4a8a65568addececb80ea25dbfc6a819a08e2b2e3f558754a2dd2852f87282bfbafc416ab1fdad01ff5c79efc0ea7a233652e4e7c5"
 
 [update]
 [update.modrinth]
 mod-id = "pnZmbG9O"
-version = "uZ3UHypx"
+version = "j0lrRfgJ"

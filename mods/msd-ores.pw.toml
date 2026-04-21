@@ -1,0 +1,13 @@
+name = "Cobblemon Add-on: Mega Showdown Ores"
+filename = "megashowdownores-1.2.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UdwspEsp/versions/plyMsJ17/megashowdownores-1.2.4-Fabric.jar"
+hash-format = "sha512"
+hash = "f321581bc850a137f3ab0269e7d229f8c7318b4820b7674f83b7ae3f977ce14cef53909967837ea0046ce8b00ffd4435212b6262b0d4f379de1205d183636a2b"
+
+[update]
+[update.modrinth]
+mod-id = "UdwspEsp"
+version = "plyMsJ17"
