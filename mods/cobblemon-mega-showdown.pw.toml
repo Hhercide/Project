@@ -1,13 +1,13 @@
 name = "Cobblemon: Mega Showdown"
-filename = "mega_showdown-fabric-1.7.2+1.7.3+1.21.1-hotfix.jar"
+filename = "mega_showdown-fabric-1.8.2+1.7.3+1.21.1-hotfix.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SszvX85I/versions/5kU67A8L/mega_showdown-fabric-1.7.2%2B1.7.3%2B1.21.1-hotfix.jar"
+url = "https://cdn.modrinth.com/data/SszvX85I/versions/YdjnaCNj/mega_showdown-fabric-1.8.2%2B1.7.3%2B1.21.1-hotfix.jar"
 hash-format = "sha512"
-hash = "00b8b4eb021fa6a2a891593cdf7dfabc814f1658b18790861c8ad13117daf80527c458bff479d333c98b390742534872d2c2d5f6934b83bd2e1db19fdf37d50d"
+hash = "0516ac46b0773a17232f2770b0ec8c54aefaa5e5ebb4da23b23c9e7d3502bf0df0b3c8abee5a6c940683bda26529934fd0a67837908be3d39adf257ca7ade15b"
 
 [update]
 [update.modrinth]
 mod-id = "SszvX85I"
-version = "5kU67A8L"
+version = "YdjnaCNj"

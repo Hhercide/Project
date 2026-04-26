@@ -1,13 +1,13 @@
 name = "Navas ZA Megas"
-filename = "zamega-neoforge-1.6.1.jar"
+filename = "zamega-fabric-1.7.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/IdlZH9j7/zamega-neoforge-1.6.1.jar"
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/x5u68zHH/zamega-fabric-1.7.3.jar"
 hash-format = "sha512"
-hash = "f0580bbee44b3dde71f41b5a26e0fc76974f3e03aef29051bf5b2ba057d5708ae43323f3fe3e0416df84ba97201efa397c0d0247ea0e4b757a342f132538b95f"
+hash = "811fcd7b8ad97ab2d0544a0e9ca03eb9d328a68df44286c702a6f8f43340904c8cddb2efbc108143cd75aa2f8778c0ea08f35410c028aad09d42aa73fbcd7a87"
 
 [update]
 [update.modrinth]
 mod-id = "2V1Y86sc"
-version = "IdlZH9j7"
+version = "x5u68zHH"

@@ -161,12 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/catch-indicator.pw.toml"
-hash = "2bd45879a78a31a7d891677dd8f412abb482d190ccc088ca40dc33a8813c1ca9"
+hash = "6a172d0e4602e44eaeaa9729e896b5e1c60734334e8130c0f9a6c74d1ebadf65"
 metafile = true
 
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "30d615e4ae353d81f01d4720ee880d94556c4ce04bd1ce5d8a4838e436e2a66e"
+hash = "5d0e71d5197fa7b475f5782f041a1c85f6987888900580e5bd28ed4fb44ff1bc"
 metafile = true
 
 [[files]]
@@ -215,11 +215,6 @@ hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
 metafile = true
 
 [[files]]
-file = "mods/cobbleemistuff.pw.toml"
-hash = "1ccfb82c6a056e4d1860f915e2fff974824de924d9ede692832f7b12a41ae433"
-metafile = true
-
-[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "e4017e270ceacfe8dff8cdba6a657b903c002133a3bc88e8dbd54c6f55812b16"
 metafile = true
@@ -246,17 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-tower.pw.toml"
-hash = "bd398415b588f2f3404309325b506b461c1b9efccf082983e06f78c0b55ba26d"
+hash = "42903ffa9569f362e3ab04cc8b6a570f80037293669dc66ee1abdd00607e2020"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-controller-support.pw.toml"
 hash = "668d163bee204b9d379784d3ea72b068c95118447ca5ad61d05cd2d82f65abf9"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-emi.pw.toml"
-hash = "9c07ac2eb6d24b34beccdabec03d12c490d771c19cf847b130a0e4b0dd7ec877"
 metafile = true
 
 [[files]]
@@ -271,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "43ce2b32885ee90bae00564c806029ee45a85f953284b8f359c4a75328a3a3db"
+hash = "246664018046c6cac974ec3d35db5a59002987c9d843a698115825f8ffaf9b56"
 metafile = true
 
 [[files]]
@@ -361,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "6d39ee31d3dcc2f6989b17c4146f24d74272ea3c7731f9e1ae926940b46694d8"
+hash = "d0fad31114549dccf2f1337c12fed5594179a292777dde69c8dae8994b5983a3"
 metafile = true
 
 [[files]]
@@ -746,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "27914b1d105a01cc3ed0d4afacd52376b75ed9352f376aa065ba76b261794024"
+hash = "283b500122554b71dbdbf33033580c41f60b5d52b5eee911b98fb6fc634431db"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Cobblemon Battle Tower"
-filename = "cobblemon_battle_tower-fabric-1.10.19.jar"
+filename = "cobblemon_battle_tower-fabric-1.10.22.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/v19DG9nW/versions/vyTnAW3y/cobblemon_battle_tower-fabric-1.10.19.jar"
+url = "https://cdn.modrinth.com/data/v19DG9nW/versions/PkRUcN3J/cobblemon_battle_tower-fabric-1.10.22.jar"
 hash-format = "sha512"
-hash = "4947bbdfdbb866c51f67e74d383cb8784899e08f8a3c705bd761ebfebdbc44aa1f861a3220f021d8d27623b1801b5707f28ab34cefdc7e3a70c5445d03edbd9c"
+hash = "20616890daa978ca47c51ab46a51104ac6d44b0daeb99420c4447a2f1f404b2e9fa26848900a941b480abf1edebe24626d609356699bb65db4f81d5188a13d41"
 
 [update]
 [update.modrinth]
 mod-id = "v19DG9nW"
-version = "vyTnAW3y"
+version = "PkRUcN3J"
