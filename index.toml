@@ -240,8 +240,18 @@ hash = "089119c03db06900380bc9fe60b0bf8338e93144afc2ba74272505cee77f880f"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-battle-tower.pw.toml"
 hash = "bd398415b588f2f3404309325b506b461c1b9efccf082983e06f78c0b55ba26d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-controller-support.pw.toml"
+hash = "668d163bee204b9d379784d3ea72b068c95118447ca5ad61d05cd2d82f65abf9"
 metafile = true
 
 [[files]]
@@ -270,11 +280,6 @@ hash = "f21ef10883cf78de53216deeffb054179b26710dda848e0de280e896967409cf"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-paleontology.pw.toml"
 hash = "bbd5041bde7a82fad389f52347a4ff0a86e7e736b80a3c7a38b4faa4bdcb92f7"
 metafile = true
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
 metafile = true
 
 [[files]]
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "a969288bce177826ba18f47194150ebb4167bb2c4fa847b6785d00d83b48b738"
 metafile = true
 
 [[files]]
@@ -476,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "7494d3ab9667c29b19cc48b65e39b3623bd6c521e4357526176f71ace8ec17eb"
 metafile = true
 
 [[files]]
@@ -1029,7 +1039,7 @@ hash = "436e431c421b00c6a8d541395bca0a76f3f3eb949b48e6d7b09fb97a52ca764e"
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
 metafile = true
 
 [[files]]
