@@ -1,13 +1,13 @@
 name = "Catch Indicator [Cobblemon Addon]"
-filename = "catchindicator-fabric-1.6.2.jar"
+filename = "catchindicator-fabric-1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tpTcu2PM/versions/KEWfUCBg/catchindicator-fabric-1.6.2.jar"
+url = "https://cdn.modrinth.com/data/tpTcu2PM/versions/YrbDpRSl/catchindicator-fabric-1.6.jar"
 hash-format = "sha512"
-hash = "32d72149fd53c573e3ddb71b2e021369215407a26689fd2397a506dcb7b418d93b542803df19867bde8d998e6365c9dea8021b9c6e1b05a47108607bc39067f0"
+hash = "09a61b96cb268ad1318dba79bffd19adc9b7a311d9c96e7e1ff302e9ceed4beb2e47cc1274f0c326a9cb2d29940b2962895b71dd415173334ca91bb117200b3b"
 
 [update]
 [update.modrinth]
 mod-id = "tpTcu2PM"
-version = "KEWfUCBg"
+version = "YrbDpRSl"

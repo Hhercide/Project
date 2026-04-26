@@ -161,12 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/catch-indicator.pw.toml"
-hash = "6a172d0e4602e44eaeaa9729e896b5e1c60734334e8130c0f9a6c74d1ebadf65"
+hash = "2bd45879a78a31a7d891677dd8f412abb482d190ccc088ca40dc33a8813c1ca9"
 metafile = true
 
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "197fece0315dbb6623f55b4e33071b60265dd070dade17e11c7aeba3a485cb0c"
+hash = "30d615e4ae353d81f01d4720ee880d94556c4ce04bd1ce5d8a4838e436e2a66e"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-tower.pw.toml"
-hash = "42903ffa9569f362e3ab04cc8b6a570f80037293669dc66ee1abdd00607e2020"
+hash = "bd398415b588f2f3404309325b506b461c1b9efccf082983e06f78c0b55ba26d"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-minimons.pw.toml"
-hash = "2e33ee6e633222b3c8f9cbf895029a06faa36b7a29dc67ca6526d9ed785c4288"
+hash = "f21ef10883cf78de53216deeffb054179b26710dda848e0de280e896967409cf"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
+hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "d0fad31114549dccf2f1337c12fed5594179a292777dde69c8dae8994b5983a3"
+hash = "6d39ee31d3dcc2f6989b17c4146f24d74272ea3c7731f9e1ae926940b46694d8"
 metafile = true
 
 [[files]]
@@ -735,13 +735,8 @@ hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
-file = "mods/msd-ores.pw.toml"
-hash = "09b84db9ba88b87eb571e0595b7af753e3c9dc4ad98fda9f2803e8e3b130b88d"
-metafile = true
-
-[[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "283b500122554b71dbdbf33033580c41f60b5d52b5eee911b98fb6fc634431db"
+hash = "27914b1d105a01cc3ed0d4afacd52376b75ed9352f376aa065ba76b261794024"
 metafile = true
 
 [[files]]
@@ -1034,7 +1029,7 @@ hash = "436e431c421b00c6a8d541395bca0a76f3f3eb949b48e6d7b09fb97a52ca764e"
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
+hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
 
 [[files]]
