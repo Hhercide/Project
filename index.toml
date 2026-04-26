@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
+hash = "b39249e03a72b82635ee947f1006c3dc60c0e75bb81fee596bfbc573892319c5"
 metafile = true
 
 [[files]]
