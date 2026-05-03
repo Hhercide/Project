@@ -9,8 +9,8 @@ file = "config/betterf3.json"
 hash = "cfb394b2e025e921761766edbbe983dd3de9876b3e6288c8203ae8a89a577c66"
 
 [[files]]
-file = "config/cobblemon-battle-extras.json"
-hash = "06eb14ae368ab60063dca691dbbbe8c42aa07e8c53b2cb9e2c53493485223317"
+file = "config/cobblemon-controller.json"
+hash = "40051138a922817d47d7f613e102fbc83dcbef8fa7de8f81a933967f74f40459"
 
 [[files]]
 file = "config/cobblemon-spawn-alerts/main.json"
