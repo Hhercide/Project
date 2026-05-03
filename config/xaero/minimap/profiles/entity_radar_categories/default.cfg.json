@@ -81,7 +81,9 @@
           "hardInclude": "vanilla",
           "includeList": [
             "biomeswevegone:man_o_war",
-	    "biomeswevegone:oddion"
+	    "biomeswevegone:oddion",
+            "easy_npc:humanoid",
+            "easy_npc:humanoid_slim"
           ],
           "includeListInSuperCategory": true,
           "excludeMode": "ONLY",
