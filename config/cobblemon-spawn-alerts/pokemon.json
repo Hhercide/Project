@@ -1,0 +1,58 @@
+{
+  "configVersion": "1.13.2",
+  "comment": [
+    "Config client — contrôle fin par Pokémon.",
+    "Le défaut s'applique à tous les Pokémon non listés individuellement.",
+    "autoGlow permet de mettre le Pokémon en surbrillance en cliquant sur l'alerte."
+  ],
+  "pokemonConfigs": {
+    "default (You can modify anything BELOW this, but dont delete it!)": {
+      "enabled": true,
+      "alwaysAlert": true,
+      "alertShiny": true,
+      "alertHiddenAbility": false,
+      "alertDespawned": true,
+      "showLegendary": true,
+      "showBucket": false,
+      "statDisplayModes": {
+        "level": "DISABLED",
+        "dex": "HOVER",
+        "ivs": "DISABLED",
+        "evs": "DISABLED",
+        "nature": "DISABLED",
+        "ability": "DISABLED",
+        "gender": "DISABLED",
+        "coords": "HOVER",
+        "biome": "MAIN_MESSAGE",
+        "nearest_player": "MAIN_MESSAGE"
+      },
+      "customAlertMessage": "<color value=#55FF55>Un {legendary}{shiny}<color value=#FFFFFF>{name}</color> est apparu{nearest_player}{biome} !</color>",
+      "customAlertTooltip": "Coordonnées : {coords_unformatted}\nBiome : {biome_unformatted}\nJoueur le plus proche : {nearest_player_unformatted}",
+      "customAlertClickEvent": "",
+      "sounds": {
+        "shiny": "https://www.myinstants.com/media/sounds/legends-arceus-shiny-noise.mp3",
+        "legendary": "",
+        "mythical": "",
+        "ultrabeast": "",
+        "paradox": "",
+        "starter": "",
+        "bucket": "",
+        "unregistered": "",
+        "uncaught": "",
+        "ivs": "",
+        "evs": "",
+        "despawned": ""
+      },
+      "customAlertSound": "",
+      "autoGlow": true,
+      "glowColor": "#FFFFFFFF",
+      "journeyMap": {
+        "enableWaypoint": false,
+        "waypointName": "",
+        "waypointHexColor": "#FFFFFF",
+        "persistent": false
+      },
+      "sendWebhook": false
+    }
+  }
+}

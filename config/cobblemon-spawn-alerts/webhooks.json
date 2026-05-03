@@ -1,0 +1,43 @@
+{
+  "configVersion": "1.13.2",
+  "comment": [
+    "Config commune (serveur + client) — webhooks Discord.",
+    "Non utilisé sur ce serveur (sendWebhook désactivé partout).",
+    "Conservé avec la structure par défaut au cas où."
+  ],
+  "webhookURL": "YOUR WEBHOOK URL HERE",
+  "webhookContent": {
+    "content": "Aucun message configuré.",
+    "username": "",
+    "avatarURL": "",
+    "tts": false,
+    "embeds": [
+      {
+        "enabled": true,
+        "title": "**Un {shiny}{legendary}{HA}{bucket}{name} est apparu dans un biome {biome} !**",
+        "description": "**Numéro Pokédex** : #{dex}\n**Niveau** : {level}\n**IVs** : {ivs}\n**Rendement EV** : {evs}\n**Nature** : {nature}\n**Capacité spéciale** : {ability}\n**Genre** : {gender}\n**Coordonnées** : {coords}\n**Joueur le plus proche** : {nearest_player}",
+        "color": "",
+        "url": "",
+        "imageURL": "",
+        "thumbnailURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{dex}.png",
+        "timestamp": false,
+        "author": {
+          "name": "",
+          "url": "",
+          "iconURL": ""
+        },
+        "fields": [
+          {
+            "name": "",
+            "value": "",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "",
+          "iconURL": ""
+        }
+      }
+    ]
+  }
+}

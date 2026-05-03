@@ -1,0 +1,23 @@
+{
+  "configVersion": "1.13.2",
+  "comment": [
+    "Config serveur — alertes globales envoyées à tous les joueurs.",
+    "Seuls les Shiny, Légendaires, Fabuleux, Ultra-Chimères et Paradoxes sont broadcastés."
+  ],
+  "enableSpawnCommandAlerts": true,
+  "alertShinies": true,
+  "broadcastShiny": true,
+  "alertLegendaries": true,
+  "alertMythicals": true,
+  "alertUltraBeasts": true,
+  "alertParadox": true,
+  "alertStarters": false,
+  "alertHiddenAbility": false,
+  "bucketsToAlert": [],
+  "broadcastBucket": false,
+  "broadcastIVs": false,
+  "broadcastEVs": false,
+  "broadcastNature": false,
+  "broadcastAbility": false,
+  "sendWebhook": false
+}

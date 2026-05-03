@@ -9,6 +9,38 @@ file = "config/betterf3.json"
 hash = "cfb394b2e025e921761766edbbe983dd3de9876b3e6288c8203ae8a89a577c66"
 
 [[files]]
+file = "config/cobblemon-battle-extras.json"
+hash = "06eb14ae368ab60063dca691dbbbe8c42aa07e8c53b2cb9e2c53493485223317"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/main.json"
+hash = "7537a379f1fcf1128cd56d2dc6375c9f7cbb2ad23229abe78633567c5e77f405"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/message_templates.json"
+hash = "591bbdfd1cf995fbc8d0e43a13baeef0cd0a15a1ec51dfdca53c3f6a0866ab3d"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/pokemon.json"
+hash = "ce7671f1151a48db70ef614d7dd0e97ac714e4d3312d37640ce74ba4ad4ebfca"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/rarities.json"
+hash = "0e7e08051a3801d26f916fd5d39e002419c8b1f11be2d314613235e8c8f0e079"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/server.json"
+hash = "03aa92704aa0d2069064d3fe5d46f6921c28ef4e0dfd0015de5f5cca6b730917"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/server_message_templates.json"
+hash = "580ead7fc6c7bb4d0df357bcb50b11ef3b34df06c9c29e18097aa3939552c07c"
+
+[[files]]
+file = "config/cobblemon-spawn-alerts/webhooks.json"
+hash = "7251cb7c0b3c4fb141729bcd29a1673a395bdc9c575fe09d827211bb67709926"
+
+[[files]]
 file = "config/emi.css"
 hash = "c8b0273e794720526ea1bbc59e1744b5f14a50030e84489662d06923de0a1cb0"
 
