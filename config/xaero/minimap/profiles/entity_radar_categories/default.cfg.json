@@ -83,7 +83,9 @@
             "biomeswevegone:man_o_war",
 	    "biomeswevegone:oddion",
             "easy_npc:humanoid",
-            "easy_npc:humanoid_slim"
+            "easy_npc:humanoid_slim",
+	    "vinery:wandering_winemaker",
+	    "vinery:mule"
           ],
           "includeListInSuperCategory": true,
           "excludeMode": "ONLY",
