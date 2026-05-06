@@ -101,6 +101,10 @@ file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "d993bb719642462d283217fd8ab2a2a9ca9f280eb00eeff31be86f32023805ff"
 
 [[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "5becce9b6f4a7c83c4ffd6568562b81f613f14b9ea0455981478e42eb1aef1f5"
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "abd12e8e1f6a3e7867e64c2c311100ec1dc58b23ecb356dec8de4fbcf2ed9c57"
 
