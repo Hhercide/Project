@@ -9,6 +9,10 @@ file = "config/betterf3.json"
 hash = "cfb394b2e025e921761766edbbe983dd3de9876b3e6288c8203ae8a89a577c66"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "296566627de8c5ed202fafa7e981160f24586ca35bf3f3afc01ca6cea8a678e8"
+
+[[files]]
 file = "config/cobblemon-controller.json"
 hash = "40051138a922817d47d7f613e102fbc83dcbef8fa7de8f81a933967f74f40459"
 
