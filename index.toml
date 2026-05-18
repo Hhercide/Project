@@ -380,11 +380,6 @@ hash = "9edd16269971b3fe1c60624846ab9f54f44d2e650fd3040447141c889f0c29e0"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonmovedex.pw.toml"
-hash = "900bb3c60f4d94fc1af4c76b034469706d34264fab64e4a45ff53fcbee66eef4"
-metafile = true
-
-[[files]]
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "d0fad31114549dccf2f1337c12fed5594179a292777dde69c8dae8994b5983a3"
 metafile = true
@@ -960,6 +955,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/tmcraft.pw.toml"
+hash = "480dd12d946309eabf4fa0f01dd0a1c73efa3df5dddba36e23e4e47bc07e7400"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "9c7364e62fa7f1ed35d21b882c133e77c48101e285035e2451d3bec431f20569"
 metafile = true
@@ -1052,6 +1052,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+metafile = true
+
+[[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "cacb5a9f6d3479af967cdd02e214216f4c2dcc59efc1b6bdf183cd6b009ca635"
 metafile = true
 
 [[files]]
