@@ -760,6 +760,11 @@ hash = "d6be1f2a19746eda687174f5fceba9ac8bec85e7fa37594241747ceaf015114b"
 metafile = true
 
 [[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "b008dca46f8a4241def14990a429352173cdfba8aab0fbe427b20437df54f78b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
