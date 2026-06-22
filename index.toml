@@ -865,6 +865,11 @@ hash = "10209276412b11d9e342392337b234f81bde23556d04d0f80c41533576adb68d"
 metafile = true
 
 [[files]]
+file = "mods/random-items-questsconfigs.pw.toml"
+hash = "7e35b1097546009b7c79fad611c11b3c96d46fecc551ce94ab14a0490050b5e2"
+metafile = true
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "bbfc6a83fafa4e25f3033c09eb23bb342ee99193f8e5c5d848244ab3fcfa27e6"
 metafile = true

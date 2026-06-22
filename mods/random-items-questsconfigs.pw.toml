@@ -1,0 +1,13 @@
+name = "Random Items (quests/configs)"
+filename = "hercides-items-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/izVvQnQr/versions/o20Y4SPo/hercides-items-1.0.2.jar"
+hash-format = "sha512"
+hash = "e6fed1cbf4589b40698efcbad4a58cf51d72636d195bb75fd8c5a19c00b57f50017f7cd0dbd2cbdf1e9db548f3e31f63eccf164edb6f76a4c0900e9ab29880a9"
+
+[update]
+[update.modrinth]
+mod-id = "izVvQnQr"
+version = "o20Y4SPo"
